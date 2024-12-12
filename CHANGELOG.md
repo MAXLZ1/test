@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/MAXLZ1/test/compare/v1.0.0...v1.1.0) (2024-12-12)
+
+
+### Features
+
+* add test3 function ([fd2e0e0](https://github.com/MAXLZ1/test/commit/fd2e0e079544f4008d9c917a0e5b9343c118fa5a))
+
+
+### Bug Fixes
+
+* fix test2 function ([a5ae119](https://github.com/MAXLZ1/test/commit/a5ae1194e5e3d7b6424eac27c14cd19392345464))
+
 ## 1.0.0 (2024-12-12)
 
 
